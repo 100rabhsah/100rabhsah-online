@@ -16,7 +16,7 @@ export const RESUME_DATA = {
   summary:
     "M.Tech CSE (Data Science & AI) student at IIIT Ranchi, former Software Engineer at Tech Mahindra with hands-on experience in automation, AI projects, and deep learning applications. Proficient in Python, Streamlit, and machine learning pipelines.",
   avatarUrl: "https://avatars.githubusercontent.com/u/116707431?s=400&u=3620555caf27b2494cbc4dbefa87a8cf822c8e75&v=4",
-  personalWebsiteUrl: "",
+  personalWebsiteUrl: "https://100rabhsah-blog.vercel.app/",
   contact: {
     email: "sourabh.2024pg104@iiitranchi.ac.in",
     tel: "+91 6299201150",
