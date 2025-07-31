@@ -19,7 +19,7 @@ export const RESUME_DATA = {
   personalWebsiteUrl: "https://100rabhsah-blog.vercel.app/",
   contact: {
     email: "sourabh.2024pg104@iiitranchi.ac.in",
-    tel: "+91 6299201150",
+    tel: "+91 9777273449",
     social: [
       {
         name: "GitHub",
